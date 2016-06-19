@@ -29,6 +29,7 @@ code {
 }
 body {
   background: #f4f5f4 url("/images/bg-light.png") repeat top left;
+  opacity: 0.8;
 }
 #Page {
   margin: 1em auto;
